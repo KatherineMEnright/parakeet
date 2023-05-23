@@ -9,6 +9,8 @@ For reference, first open the [Juncture user guide](https://github.com/JSTOR-Lab
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 
 *This makes things italics*. 
+<param ve-compare curtain manifest="https://iiif.juncture-digital.org/wc:Betel_Piper_betle.jpg/manifest.json" fit="contain">
+<param ve-compare manifest="https://iiif.juncture-digital.org/wc:Piper_betle_Blanco1.12.jpg/manifest.json" fit="contain">
 
 This is how you add a footnote. [^1]
 
