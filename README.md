@@ -27,10 +27,8 @@ You can use the QID tag within a sentence. For example: The <span eid="Q170662">
 <param ve-iframe src="https://digitalgems.nus.edu.sg/persistent/28a6afc5-5069-457a-a1e9-9a96b9ee2afc">
 
 >This is the code you use to add an image. Make sure to **close the tag**. It starts with **<param ve-image** and ends with a closing **>**. Within these tags, you can add information to help the program locate and describe the image. **While these examples are images, we can also include textual sources (particularly primary sources) in the media viewer where appropriate.**
-<param ve-image 
-       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       title="Mangosteen Photograph" 
-       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
+<param ve-iframe
+       src="https://mhf.org.sg/wp-content/uploads/2022/10/CLS_09_Forgotten-Wisdom-of-Firasat-FA.pdf">
        
 <span eid="Q271648">Marianne North</span> painted this painting of a 'Singapore monkey' amongst mangosteen fruits in 1875. You can also include "attribution" in the image information.
 <param ve-image 
